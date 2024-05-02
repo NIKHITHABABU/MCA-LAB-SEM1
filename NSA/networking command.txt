@@ -1,0 +1,66 @@
+Study important options and uses of following command line tools for networking. ping, traceroute,  netstat, tcpdump, ip, nslookup, route, ifconfig, ifup,, ifquery, curl, wget 
+
+1.	ping: 
+
+                  ping www.goggle.com
+
+       
+2.	traceroute: 
+
+                  traceroute  www.goggle.com
+
+
+3.	netstat: 
+
+                  netstat –u  www.goggle.com
+
+
+4.	tcpdump:  
+
+                  tcpdump –D
+
+
+5.	ip: 
+
+                 ip route
+
+
+6.	nslookup: 
+
+                  nslookup  www.goggle.com
+
+
+7.	route: 
+
+                 route –n
+
+
+8.	ifconfig: 
+
+                  ifconfig –v
+
+
+9.	ifup, ifquery: 
+
+                  ifquery –l
+
+                  ifup –V
+
+
+10.	curl: 
+
+                 curl –d name=”curl”  www.goggle.com
+
+
+
+
+
+11.	wget: 
+ 
+              wget  http:// www.goggle.com
+
+
+
+
+	
+
